@@ -11,7 +11,7 @@ function Detail() {
         getMovie();
     }, []);
     console.log(id);
-    return <h1>Detail</h1>
+    return <h1>아직 구현되지 않았습니다.</h1>
 }
 
 export default Detail;
