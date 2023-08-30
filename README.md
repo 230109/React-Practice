@@ -1,13 +1,16 @@
 # React-Practice
-이 프로젝트는 노마드코더의 'ReactJS로 영화 웹 서비스 만들기' 강의를 듣고 만들었습니다.
+### 별점이 8.5점 이상인 영화들을 정렬해서 보여주는 사이트를 React를 활용하여 구현하였습니다.
+[만든 사이트 접속](https://crohasang.github.io/React-Practice/)
 <br>
-create-react-app을 활용하였습니다.
-<br><br><br>
-###  사이트 링크:  https://crohasang.github.io/React-Practice/
-<br><br><br>
-
+## 📌 주요 기능
+1. 별점이 8.5 이상인 영화들 중 개봉년도가 빠른 영화가 위에서부터 정렬되어 표시됩니다.<br>
+(활용한 API: https://yts.mx/api/v2/list_movies.json?minimum_rating=8.5&sort_by=year)<br><br>
+2. 영화의 포스터, 제목, 설명, 장르가 표시되는데, 설명의 경우 235자 이하로만 표시됩니다.<br><br>
+3. 영화의 제목을 클릭하면 영화의 ID에 따라 각각 다른 페이지로 이동합니다.<br>
+(하지만 이 페이지의 내용은 아직 구현되지 않았습니다.)
+<br><br><br><br>
 -----------------------------------------------------------------------------------------------------------------------------------------
-※ 밑의 내용들은 자동으로 README.md에 생성된 내용입니다.
+※ 밑의 내용들은 Create React App을 사용함으로써 자동으로 README.md에 생성된 내용입니다.
 
 # Getting Started with Create React App
 
