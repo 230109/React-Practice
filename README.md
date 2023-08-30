@@ -1,3 +1,14 @@
+# React-Practice
+이 프로젝트는 노마드코더의 'ReactJS로 영화 웹 서비스 만들기' 강의를 듣고 만들었습니다.
+<br>
+create-react-app을 활용하였습니다.
+<br><br><br>
+###  사이트 링크:  https://crohasang.github.io/React-Practice/
+<br><br><br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+※ 밑의 내용들은 자동으로 README.md에 생성된 내용입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
